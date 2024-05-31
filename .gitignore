@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+out/
+
+# Coverage reports
+coverage/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Test reports
+npm-debug.log
+yarn-error.log
+
+# Temporary files
+.tmp/
+
+# Secret files
+.env.local
+
+# Logs
+*.log
+
+# Other common exclusions
+npm-shrinkwrap.json
+package-lock.json
